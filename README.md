@@ -137,7 +137,6 @@ If the model or category mapping changes, regenerate the saved artifacts and ens
 
 Through this project, I explored the end-to-end machine learning workflow, including data analysis, feature selection, categorical encoding, regression, hyperparameter tuning, cross-validation, model evaluation, artifact persistence, and building an interactive prediction application.
 
-## Author
 
 **Pandiyan M**
 
